@@ -1,0 +1,10 @@
+﻿  win64_platform.cpp
+D:\Rafi's games\Rafi's Pong Ball\My_First_Cpp_Game\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Rafi's games\Rafi's Pong Ball\My_First_Cpp_Game\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Rafi's games\Rafi's Pong Ball\My_First_Cpp_Game\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Rafi's games\Rafi's Pong Ball\My_First_Cpp_Game\renderer.cpp(60,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Rafi's games\Rafi's Pong Ball\My_First_Cpp_Game\original_game.cpp(7,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Rafi's games\Rafi's Pong Ball\My_First_Cpp_Game\original_game.cpp(138,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Rafi's games\Rafi's Pong Ball\My_First_Cpp_Game\original_game.cpp(154,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Rafi's games\Rafi's Pong Ball\My_First_Cpp_Game\original_game.cpp(158,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  My_First_Cpp_Game.vcxproj -> D:\Rafi's games\Rafi's Pong Ball\x64\Debug\Rafi's Pong.exe
